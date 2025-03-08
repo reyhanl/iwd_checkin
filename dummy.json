@@ -1,0 +1,23 @@
+[
+  {
+    "bank": "Dummy Bank",
+    "transactionID": "1234567890",
+    "merchant": "Dummy Merchant 1",
+    "transactionTotal": 100.0,
+    "date": "2024-03-26"
+  },
+  {
+    "bank": "Another Bank",
+    "transactionID": "0987654321",
+    "merchant": "Dummy Merchant 2",
+    "transactionTotal": 150.0,
+    "date": "2024-03-27"
+  },
+  {
+    "bank": "Test Bank",
+    "transactionID": "9876543210",
+    "merchant": "Dummy Merchant 3",
+    "transactionTotal": 200.0,
+    "date": "2024-03-28"
+  }
+]
