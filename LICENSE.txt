@@ -1,0 +1,22 @@
+Version 1.0
+
+Copyright (c) 2025 Reyhan Muhammad
+
+1. License Grant
+Permission is hereby granted to any individual or entity (the “User”) to use, copy, modify, and distribute this software, subject to the following conditions:
+
+2. Non-Commercial Use Only
+This software is licensed strictly for personal, educational, or non-commercial use.
+	•	❌ Commercial use is prohibited, including but not limited to:
+	•	Selling, licensing, or distributing the software for financial gain.
+	•	Using the software in a product or service that generates revenue.
+	•	Incorporating the software into any proprietary or for-profit software.
+
+3. Attribution
+Users must retain the copyright notice in all copies or substantial portions of the software.
+
+4. No Warranty
+This software is provided “as is,” without warranty of any kind, express or implied. The authors shall not be liable for any claim, damages, or other liability arising from its use.
+
+5. Termination
+Any violation of this license will automatically terminate the User’s rights under this agreement.
